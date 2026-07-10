@@ -1,5 +1,3 @@
-# Los Gatos Integrated Applied Systems LLC
-
 We are just starting up here at LGIAS as makers of Water Polo Camera, Water Polo Board, and the Referee Radio Assistant!
 
 Please, give us a little bit to get our website going!
