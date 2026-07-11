@@ -37,7 +37,7 @@ We reserve the right to modify or update this Privacy Policy at any time to refl
 
 If there are any questions or suggestions regarding this Privacy Policy, please contact us at:
 
-> Los Gatos Integrated Applied Systems  
+> Los Gatos Integrated Applied Systems LLC  
 > PO Box 272  
 > Los Gatos, CA 95031  
 > USA  
