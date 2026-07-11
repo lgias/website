@@ -1,4 +1,4 @@
-# Privacy Policy
+# Water Polo Camera Privacy Policy
 
 Last updated: July 10, 2026
 
