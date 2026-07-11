@@ -2,7 +2,7 @@
 
 Last updated: July 10, 2026
 
-Los Gatos Integrated Applied Systems ("we", "our", or "us") provides the Water Polo Camera mobile application (the "App"). We are committed to protecting user privacy. This Privacy Policy explains our practices regarding information collection, use, and disclosure.
+Los Gatos Integrated Applied Systems LLC ("we", "our", or "us") provides the Water Polo Camera mobile application (the "App"). We are committed to protecting user privacy. This Privacy Policy explains our practices regarding information collection, use, and disclosure.
 
 ## 1. Information Collection and Use
 
