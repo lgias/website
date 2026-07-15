@@ -14,8 +14,9 @@ Setting up a board takes one step, and you only ever do it once. This page loads
 ## Set it up
 
 <div style="margin: 1.5rem 0;">
-<esp-web-install-button manifest="/flash/manifest.json" style="--esp-tools-button-color: #2a7ae2; --esp-tools-button-text-color: #ffffff; --esp-tools-button-border-radius: 8px;"></esp-web-install-button>
+<esp-web-install-button manifest="/flash/manifest.json"></esp-web-install-button>
 </div>
+<script type="module" src="https://unpkg.com/esp-web-tools@10/dist/web/install-button.js"></script>
 
 1. Plug the board into your computer.
 2. Press the button above, and pick your board when the browser asks.
