@@ -25,4 +25,6 @@ Setting up a board takes one step, and you only ever do it once. This page loads
 
 **This is a one-time setup.** From here on, updates reach the board through the app on their own. You will not need a computer, a cable, or this page again.
 
+<p style="font-size: 0.9rem;">The firmware is provided as is. By setting up a board, you accept our <a href="/terms">Terms of Use</a>.</p>
+
 [Back to the board](/wpboard)
