@@ -15,20 +15,28 @@ The pool's scoreboard already broadcasts its timing wirelessly. The board quietl
 
 You do not have to wait for us to sell hardware. The board runs on an affordable, off-the-shelf developer board about the size of a stick of gum. Pick one, load our free firmware onto it once, and you are set:
 
-- [XIAO ESP32C6](https://www.amazon.com/dp/B0D2NKVB34): the smallest of the three.
-- [ESP32-C6 dev board, 2-pack](https://www.amazon.com/dp/B0DCGB5QSR): a dependable workhorse, and you get a spare.
-- [M5Stack NanoC6](https://www.amazon.com/dp/B0D8Q32F67): tiny, and it comes in a tidy little box.
+- <a href="https://www.amazon.com/dp/B0D8Q32F67?tag=lgias-20" target="_blank" rel="noopener">M5Stack NanoC6</a>: the smallest of the three, and it comes in a tidy little box.
+- <a href="https://www.amazon.com/dp/B0D2NKVB34?tag=lgias-20" target="_blank" rel="noopener">XIAO ESP32C6</a>: small and beginner-friendly.
+- <a href="https://www.amazon.com/dp/B0DCGB5QSR?tag=lgias-20" target="_blank" rel="noopener">ESP32-C6 dev board, 2-pack</a>: a dependable workhorse, and you get a spare.
+
+<p style="text-align: center; margin: 1.5rem 0;">
+<span style="display: inline-block; background: #1c1c1e; padding: 6px; border-radius: 18px; box-shadow: 0 4px 16px rgba(0, 0, 0, 0.28); margin: 0.4rem 0.45rem; vertical-align: middle;"><img src="/assets/nanoc6.webp" alt="M5Stack NanoC6" height="120" style="display: block; height: 120px; width: auto; border-radius: 12px;"></span>
+<span style="display: inline-block; background: #1c1c1e; padding: 6px; border-radius: 18px; box-shadow: 0 4px 16px rgba(0, 0, 0, 0.28); margin: 0.4rem 0.45rem; vertical-align: middle;"><img src="/assets/xiao-c6.jpg" alt="Seeed XIAO ESP32C6" height="120" style="display: block; height: 120px; width: auto; border-radius: 12px;"></span>
+<span style="display: inline-block; background: #1c1c1e; padding: 6px; border-radius: 18px; box-shadow: 0 4px 16px rgba(0, 0, 0, 0.28); margin: 0.4rem 0.45rem; vertical-align: middle;"><img src="/assets/devkitm.png" alt="ESP32-C6-DevKitM-1 developer board" height="120" style="display: block; height: 120px; width: auto; border-radius: 12px;"></span>
+</p>
+
+<small>As an Amazon Associate, LGIAS earns from qualifying purchases.</small>
 
 After that it could not be lower maintenance: keep it in its antistatic bag, power it from any USB battery pack (you can even plug it into your phone), and it starts listening. The one-time firmware load takes a couple of minutes and is covered in our setup guide. The firmware is free to load yourself, so building your own is a first-class path, not a workaround.
 
 ## A ready-made version is coming
 
+We are also building our own turnkey board so you can skip the DIY step entirely. It is not ready yet. Below are our board design and an early working prototype.
+
 <p style="text-align: center; margin: 1.5rem 0;">
 <span style="display: inline-block; background: #1c1c1e; padding: 6px; border-radius: 22px; box-shadow: 0 4px 16px rgba(0, 0, 0, 0.28); margin: 0.4rem 0.45rem; vertical-align: top;"><img src="/assets/wpboard-c-cad.png" alt="Board layout for our own Water Polo Board, revision 2" width="200" style="display: block; border-radius: 16px;"></span>
 <span style="display: inline-block; background: #1c1c1e; padding: 6px; border-radius: 22px; box-shadow: 0 4px 16px rgba(0, 0, 0, 0.28); margin: 0.4rem 0.45rem; vertical-align: top;"><img src="/assets/wpboard-c-prototype.jpg" alt="Working prototype of our own Water Polo Board, coming soon" width="200" style="display: block; border-radius: 16px;"></span>
 </p>
-
-We are also building our own turnkey board so you can skip the DIY step entirely. It is not ready yet; above are our board design and an early working prototype. Until it ships, the DIY route above works today.
 
 ---
 
