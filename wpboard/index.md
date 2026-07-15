@@ -32,7 +32,7 @@ You do not have to wait for us to sell hardware. The board runs on an affordable
 
 <small>As an Amazon Associate, LGIAS earns from qualifying purchases.</small>
 
-After that it could not be lower maintenance: keep it in its antistatic bag, power it from any USB battery pack (you can even plug it into your phone), and it starts listening. The one-time firmware load takes only a couple of minutes. The firmware is free to load yourself, so building your own is a first-class path, not a workaround.
+After that it could not be lower maintenance: keep it in its antistatic bag, power it from any <a href="https://www.amazon.com/s?k=usb+power+bank&amp;tag=lgias-20" target="_blank" rel="noopener">USB power bank</a> (you can even plug it into your phone), and it starts listening. The one-time setup needs nothing but a <a href="https://www.amazon.com/s?k=usb-c+data+cable&amp;tag=lgias-20" target="_blank" rel="noopener">USB-C cable that transfers data</a>, not a charge-only one, and takes only a couple of minutes. The firmware is free to load yourself, so building your own is a first-class path, not a workaround.
 
 ## A ready-made version is coming
 
