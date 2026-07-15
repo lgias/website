@@ -14,11 +14,7 @@ Setting up a board takes one step, and you only ever do it once. This page loads
 ## Set it up
 
 <div style="margin: 1.5rem 0;">
-<esp-web-install-button manifest="/flash/manifest.json">
-<button slot="activate" style="font: inherit; padding: 0.6rem 1.4rem; border: none; border-radius: 8px; background: #2a7ae2; color: #fff; cursor: pointer;">Set up my board</button>
-<span slot="unsupported">This browser cannot set up a board. Please use Chrome or Edge on a computer.</span>
-<span slot="not-allowed">This needs a secure connection. Please open this page over https.</span>
-</esp-web-install-button>
+<esp-web-install-button manifest="/flash/manifest.json" style="--esp-tools-button-color: #2a7ae2; --esp-tools-button-text-color: #ffffff; --esp-tools-button-border-radius: 8px;"></esp-web-install-button>
 </div>
 
 1. Plug the board into your computer.
