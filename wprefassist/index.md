@@ -3,6 +3,8 @@ layout: page
 title: Water Polo Referee Companion
 ---
 
+<p style="text-align: center;"><img src="/assets/referee-icon.png" alt="Water Polo Referee Companion app icon" style="width: 160px; max-width: 45%; height: auto; border-radius: 22%;"></p>
+
 Water Polo Referee Companion keeps your eyes on the water. Paired with a [Water Polo Board](/wpboard), it follows the game clock, shot clock, and score, and speaks short cues to your earpiece at the moments that matter, so you never have to look away from the play to check the clocks or scoreboard.
 
 <!-- screenshot: main screen, connected, live clock and score readout with cue toggles -->
