@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Contact
+title: Contact and Support
 ---
 
 **Los Gatos Integrated Applied Systems LLC**  
