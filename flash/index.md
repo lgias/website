@@ -1,26 +1,31 @@
 ---
 layout: page
-title: Flash the Water Polo Board
+title: Set up your Water Polo Board
 ---
 
-Load the Water Polo Board firmware onto a compatible board right here in your browser. Nothing to install, it takes a couple of minutes, and you only do it once.
+Setting up a board takes one step, and you only ever do it once. This page loads the software onto a fresh board the first time you build it. After that, the board keeps itself up to date through the app over Bluetooth, so you will never need a cable, or this page, again.
 
 ## What you need
 
-- A compatible ESP32-C6 board (see the [Water Polo Board](/wpboard) page for options).
-- A USB-C data cable (a charge-only cable will not work).
-- A computer running Chrome or Edge. Flashing is not supported in Safari, in Firefox, or on phones.
+- A Water Polo Board. See the [board page](/wpboard) for the small, inexpensive boards that work.
+- A USB-C cable that transfers data, not a charge-only one.
+- A computer running Chrome or Edge. This does not work in Safari, in Firefox, or on a phone, so reach for a laptop or desktop.
 
-## Flash it
+## Set it up
 
-<p style="margin: 1.5rem 0;">
-<esp-web-install-button manifest="/flash/manifest.json"></esp-web-install-button>
-</p>
-<script type="module" src="https://unpkg.com/esp-web-tools@10/dist/web/install-button.js?module"></script>
+<div style="margin: 1.5rem 0;">
+<esp-web-install-button manifest="/flash/manifest.json">
+<button slot="activate" style="font: inherit; padding: 0.6rem 1.4rem; border: none; border-radius: 8px; background: #2a7ae2; color: #fff; cursor: pointer;">Set up my board</button>
+<span slot="unsupported">This browser cannot set up a board. Please use Chrome or Edge on a computer.</span>
+<span slot="not-allowed">This needs a secure connection. Please open this page over https.</span>
+</esp-web-install-button>
+</div>
 
-1. Plug the board into your computer with the USB cable.
-2. Click Connect above and choose the board's serial port.
-3. Choose Install and wait for it to finish.
-4. Unplug it. It is ready to pair with the app.
+1. Plug the board into your computer.
+2. Press the button above, and pick your board when the browser asks.
+3. Let it run. It takes about two minutes, and you do not need to do anything while it works.
+4. When it finishes, unplug the board. It is ready to pair with the app.
 
-[Back to Water Polo Board](/wpboard)
+**This is a one-time setup.** From here on, updates reach the board through the app on their own. You will not need a computer, a cable, or this page again.
+
+[Back to the board](/wpboard)

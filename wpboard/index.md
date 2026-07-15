@@ -13,7 +13,7 @@ The pool's scoreboard already broadcasts its timing wirelessly. The board quietl
 
 ## Getting one is easy
 
-You do not have to wait for us to sell hardware. The board runs on an affordable, off-the-shelf developer board about the size of a stick of gum. Pick one, then [flash our free firmware onto it right in your browser](/flash), and you are set:
+You do not have to wait for us to sell hardware. The board runs on an affordable, off-the-shelf developer board about the size of a stick of gum. Pick one, then [set it up in your browser](/flash), a one-time step, and you are set:
 
 <div style="display: flex; align-items: center; gap: 1rem; max-width: 460px; margin: 1.25rem auto;">
 <a href="https://www.amazon.com/dp/B0D8Q32F67?tag=lgias-20" target="_blank" rel="noopener" style="flex-shrink: 0;"><span style="display: inline-block; background: #1c1c1e; padding: 5px; border-radius: 14px; box-shadow: 0 3px 12px rgba(0, 0, 0, 0.25);"><img src="/assets/nanoc6.webp" alt="M5Stack NanoC6" style="display: block; width: 96px; height: auto; border-radius: 9px;"></span></a>
