@@ -16,6 +16,4 @@ It plays short spoken cues through your phone's headphones or through the Blueto
 - Game clock dropping below the shot clock
 - Score changes
 
-Developed and published by Los Gatos Integrated Applied Systems LLC. Coming to the App Store.
-
 [Privacy Policy](/wprefassist/privacy)

@@ -7,8 +7,8 @@ Water Polo Board is a small wireless receiver you bring to the pool. It picks up
 
 It listens only. It never connects to or interferes with the pool's equipment.
 
-Water Polo Board works with compatible wireless scoreboard controllers.[^cts]
+Water Polo Board works with compatible wireless scoreboard controllers.
 
-Developed by Los Gatos Integrated Applied Systems LLC.
+---
 
-[^cts]: Compatible systems include wireless water polo timing from Colorado Time Systems. LGIAS is not affiliated with, endorsed by, or sponsored by Colorado Time Systems, which is a trademark of its respective owner.
+<small>Compatible systems include wireless water polo timing from Colorado Time Systems. LGIAS is not affiliated with, endorsed by, or sponsored by Colorado Time Systems, which is a trademark of its respective owner.</small>

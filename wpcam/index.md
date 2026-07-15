@@ -14,6 +14,4 @@ The scoreboard overlay (period, game clock, shot clock, and score) is baked into
 - Built-in stats scorebook: goals, exclusions, penalties, and more
 - Favorite teams for quick game setup
 
-Developed and published by Los Gatos Integrated Applied Systems LLC. Coming to the App Store.
-
 [Privacy Policy](/wpcam/privacy)
