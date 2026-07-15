@@ -15,15 +15,20 @@ The pool's scoreboard already broadcasts its timing wirelessly. The board quietl
 
 You do not have to wait for us to sell hardware. The board runs on an affordable, off-the-shelf developer board about the size of a stick of gum. Pick one, load our free firmware onto it once, and you are set:
 
-- <a href="https://www.amazon.com/dp/B0D8Q32F67?tag=lgias-20" target="_blank" rel="noopener">M5Stack NanoC6</a>: the smallest of the three, and it comes in a tidy little box.
-- <a href="https://www.amazon.com/dp/B0D2NKVB34?tag=lgias-20" target="_blank" rel="noopener">XIAO ESP32C6</a>: small and beginner-friendly.
-- <a href="https://www.amazon.com/dp/B0DCGB5QSR?tag=lgias-20" target="_blank" rel="noopener">ESP32-C6 dev board, 2-pack</a>: a dependable workhorse, and you get a spare.
+<div style="display: flex; align-items: center; gap: 1rem; max-width: 460px; margin: 1.25rem auto;">
+<a href="https://www.amazon.com/dp/B0D8Q32F67?tag=lgias-20" target="_blank" rel="noopener" style="flex-shrink: 0;"><span style="display: inline-block; background: #1c1c1e; padding: 5px; border-radius: 14px; box-shadow: 0 3px 12px rgba(0, 0, 0, 0.25);"><img src="/assets/nanoc6.webp" alt="M5Stack NanoC6" style="display: block; width: 96px; height: auto; border-radius: 9px;"></span></a>
+<div><a href="https://www.amazon.com/dp/B0D8Q32F67?tag=lgias-20" target="_blank" rel="noopener"><strong>M5Stack NanoC6</strong></a>: the smallest of the three, and it comes in a tidy little box.</div>
+</div>
 
-<p style="text-align: center; margin: 1.5rem 0;">
-<span style="display: inline-block; background: #1c1c1e; padding: 6px; border-radius: 18px; box-shadow: 0 4px 16px rgba(0, 0, 0, 0.28); margin: 0.4rem 0.45rem; vertical-align: middle;"><img src="/assets/nanoc6.webp" alt="M5Stack NanoC6" height="120" style="display: block; height: 120px; width: auto; border-radius: 12px;"></span>
-<span style="display: inline-block; background: #1c1c1e; padding: 6px; border-radius: 18px; box-shadow: 0 4px 16px rgba(0, 0, 0, 0.28); margin: 0.4rem 0.45rem; vertical-align: middle;"><img src="/assets/xiao-c6.jpg" alt="Seeed XIAO ESP32C6" height="120" style="display: block; height: 120px; width: auto; border-radius: 12px;"></span>
-<span style="display: inline-block; background: #1c1c1e; padding: 6px; border-radius: 18px; box-shadow: 0 4px 16px rgba(0, 0, 0, 0.28); margin: 0.4rem 0.45rem; vertical-align: middle;"><img src="/assets/devkitm.png" alt="ESP32-C6-DevKitM-1 developer board" height="120" style="display: block; height: 120px; width: auto; border-radius: 12px;"></span>
-</p>
+<div style="display: flex; align-items: center; gap: 1rem; max-width: 460px; margin: 1.25rem auto;">
+<a href="https://www.amazon.com/dp/B0D2NKVB34?tag=lgias-20" target="_blank" rel="noopener" style="flex-shrink: 0;"><span style="display: inline-block; background: #1c1c1e; padding: 5px; border-radius: 14px; box-shadow: 0 3px 12px rgba(0, 0, 0, 0.25);"><img src="/assets/xiao-c6.jpg" alt="Seeed XIAO ESP32C6" style="display: block; width: 96px; height: auto; border-radius: 9px;"></span></a>
+<div><a href="https://www.amazon.com/dp/B0D2NKVB34?tag=lgias-20" target="_blank" rel="noopener"><strong>XIAO ESP32C6</strong></a>: small and beginner-friendly.</div>
+</div>
+
+<div style="display: flex; align-items: center; gap: 1rem; max-width: 460px; margin: 1.25rem auto;">
+<a href="https://www.amazon.com/dp/B0DCGB5QSR?tag=lgias-20" target="_blank" rel="noopener" style="flex-shrink: 0;"><span style="display: inline-block; background: #1c1c1e; padding: 5px; border-radius: 14px; box-shadow: 0 3px 12px rgba(0, 0, 0, 0.25);"><img src="/assets/devkitm.png" alt="ESP32-C6-DevKitM-1 developer board" style="display: block; width: 96px; height: auto; border-radius: 9px;"></span></a>
+<div><a href="https://www.amazon.com/dp/B0DCGB5QSR?tag=lgias-20" target="_blank" rel="noopener"><strong>ESP32-C6 dev board, 2-pack</strong></a>: a dependable workhorse, and you get a spare.</div>
+</div>
 
 <small>As an Amazon Associate, LGIAS earns from qualifying purchases.</small>
 
