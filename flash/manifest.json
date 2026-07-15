@@ -1,0 +1,11 @@
+{
+  "name": "Water Polo Board",
+  "builds": [
+    {
+      "chipFamily": "ESP32-C6",
+      "parts": [
+        { "path": "https://firmware.lgias.com/consumer.bin", "offset": 0 }
+      ]
+    }
+  ]
+}

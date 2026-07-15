@@ -13,7 +13,7 @@ The pool's scoreboard already broadcasts its timing wirelessly. The board quietl
 
 ## Getting one is easy
 
-You do not have to wait for us to sell hardware. The board runs on an affordable, off-the-shelf developer board about the size of a stick of gum. Pick one, load our free firmware onto it once, and you are set:
+You do not have to wait for us to sell hardware. The board runs on an affordable, off-the-shelf developer board about the size of a stick of gum. Pick one, then [flash our free firmware onto it right in your browser](/flash), and you are set:
 
 <div style="display: flex; align-items: center; gap: 1rem; max-width: 460px; margin: 1.25rem auto;">
 <a href="https://www.amazon.com/dp/B0D8Q32F67?tag=lgias-20" target="_blank" rel="noopener" style="flex-shrink: 0;"><span style="display: inline-block; background: #1c1c1e; padding: 5px; border-radius: 14px; box-shadow: 0 3px 12px rgba(0, 0, 0, 0.25);"><img src="/assets/nanoc6.webp" alt="M5Stack NanoC6" style="display: block; width: 96px; height: auto; border-radius: 9px;"></span></a>
@@ -32,7 +32,7 @@ You do not have to wait for us to sell hardware. The board runs on an affordable
 
 <small>As an Amazon Associate, LGIAS earns from qualifying purchases.</small>
 
-After that it could not be lower maintenance: keep it in its antistatic bag, power it from any USB battery pack (you can even plug it into your phone), and it starts listening. The one-time firmware load takes a couple of minutes and is covered in our setup guide. The firmware is free to load yourself, so building your own is a first-class path, not a workaround.
+After that it could not be lower maintenance: keep it in its antistatic bag, power it from any USB battery pack (you can even plug it into your phone), and it starts listening. The one-time firmware load takes only a couple of minutes. The firmware is free to load yourself, so building your own is a first-class path, not a workaround.
 
 ## A ready-made version is coming
 
