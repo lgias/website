@@ -1,11 +1,11 @@
 ---
 layout: page
-title: Water Polo Referee Radio Assist Privacy Policy
+title: Water Polo Referee Companion Privacy Policy
 ---
 
 Last updated: July 14, 2026
 
-Los Gatos Integrated Applied Systems LLC ("we", "our", or "us") provides the Water Polo Referee Radio Assist mobile application (the "App"). We are committed to protecting user privacy. This Privacy Policy explains our practices regarding information collection, use, and disclosure.
+Los Gatos Integrated Applied Systems LLC ("we", "our", or "us") provides the Water Polo Referee Companion mobile application (the "App"). We are committed to protecting user privacy. This Privacy Policy explains our practices regarding information collection, use, and disclosure.
 
 ## 1. Information Collection and Use
 
