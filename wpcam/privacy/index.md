@@ -17,8 +17,7 @@ To provide its core functionality, the App requires access to certain device fea
 
 - **Camera and Microphone:** Used solely to capture video and audio when the user records water polo games. This data is processed in real time to overlay scoreboard graphics and is never sent to external servers.
 - **Photos Library:** Used to save the completed, recorded video files directly to the user's Photos app. The App does not read other photos in the user's library.
-- **Bluetooth:** Used to scan for and connect to a companion wpboard wireless hardware device to receive live scoreboard timing data over a local wireless network connection. No tracking or location data is associated with Bluetooth operations, and no data is shared externally.
-- **Location Services:** The App may request access to location data to allow for better correlation to games and events.
+- **Bluetooth:** Used to scan for and connect to a companion Water Polo Board to receive live scoreboard timing data over a local wireless network connection. No tracking or location data is associated with Bluetooth operations, and no data is shared externally.
 
 ## 3. Network Communications
 
@@ -34,7 +33,7 @@ Because our App does not collect any personal data, we do not knowingly or unkno
 
 ## 6. Changes to this Privacy Policy
 
-We reserve the right to modify or update this Privacy Policy at any time to reflect changes in our practices, app features, or to add advertising and user tracking in future updates. Any changes will be posted on this page with an updated "Last updated" date at the top. The user is encouraged to review this policy periodically.
+We reserve the right to modify or update this Privacy Policy at any time to reflect changes in our practices or app features. Any changes will be posted on this page with an updated "Last updated" date at the top. The user is encouraged to review this policy periodically.
 
 ## 7. Contact Us
 
