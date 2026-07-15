@@ -7,7 +7,10 @@ title: Water Polo Referee Companion
 
 Water Polo Referee Companion keeps your eyes on the water. Paired with a [Water Polo Board](/wpboard), it follows the game clock, shot clock, and score, and speaks short cues to your earpiece at the moments that matter, so you never have to look away from the play to check the clocks or scoreboard.
 
-<!-- screenshot: main screen, connected, live clock and score readout with cue toggles -->
+<figure class="shot">
+<div class="phone-frame"><div class="shot-ph">Main screen</div></div>
+<figcaption>Connected, with the clock, score, and cues</figcaption>
+</figure>
 
 ## What it tells you
 
@@ -20,7 +23,10 @@ Each cue is short, spoken, and can be turned on or off on its own:
 - **"Shot clock is game clock"**: the game clock has dropped below the shot clock.
 - **"Score is X to Y"**: the score has changed.
 
-<!-- screenshot: a cue firing, for example "Shot five", as it is spoken -->
+<figure class="shot">
+<div class="phone-frame"><div class="shot-ph">A cue firing</div></div>
+<figcaption>A cue as it is spoken</figcaption>
+</figure>
 
 ## How you hear it
 
