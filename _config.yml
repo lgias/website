@@ -1,1 +1,10 @@
-title: "Los Gatos Integrated Applied Systems LLC (LGIAS)"
+title: LGIAS
+email: inquiries@lgias.com
+description: >-
+  LGIAS builds apps and connected hardware. Today, we build for water polo.
+theme: minima
+header_pages:
+  - wpcam/index.md
+  - wpboard/index.md
+  - wprefassist/index.md
+  - support/index.md

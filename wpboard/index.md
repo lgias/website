@@ -1,5 +1,14 @@
-## Water Polo Board
+---
+layout: page
+title: Water Polo Board
+---
 
-Water Polo Board (AKA wpboard) is custom hardware that passively listens to the water polo scoreboard broadcasts at the pool transmitted by the official poool scoreboard controllers and forwards that information to the [Water Polo Camera](/wpcam) and [Referee Radio Assist](/wprefassist) apps.
+Water Polo Board is a small wireless receiver you bring to the pool. It picks up the pool's scoreboard timing and relays it to the [Water Polo Camera](/wpcam) and [Water Polo Referee Radio Assist](/wprefassist) apps over Bluetooth.
 
-Stay tuned for more details to come!
+It listens only. It never connects to or interferes with the pool's equipment.
+
+Water Polo Board works with compatible wireless scoreboard controllers.[^cts]
+
+Developed by Los Gatos Integrated Applied Systems LLC.
+
+[^cts]: Compatible systems include wireless water polo timing from Colorado Time Systems. LGIAS is not affiliated with, endorsed by, or sponsored by Colorado Time Systems, which is a trademark of its respective owner.

@@ -1,23 +1,21 @@
-## Water Polo Referee Radio Assist
+---
+layout: page
+title: Water Polo Referee Radio Assist
+---
 
-Water Polo Referee Radio Assist is a mobile app that elevates your water polo refereeing situational awareness by providing you with audible clues to the important clock events in the game. It works with your phone's headphones, or with most commonly used referee bluetooth radios. 
+Water Polo Referee Radio Assist gives referees audible cues for the moments that matter, so you can keep your eyes on the water.
 
-App requires [Water Polo Board](/wpboard) to operate.
+It plays short spoken cues through your phone's headphones or through the Bluetooth radios referees already use, working with a paired [Water Polo Board](/wpboard).
 
-Planned features
+## Cues
 
-  * Audible notifications
-    * Game clock
-      * Under one minute in the period left
-      * 5 seconds in the period left
-    * Shot clock
-      * Reset
-      * Undo reset
-      * 5 seconds on the shot clock left
-  * Desk notification
-    * Referee assistance needed
-    * Red flag raised
-    * White flag raised
-    * Dark flag raised
+- Shot clock reset
+- Five seconds left on the shot clock
+- Ten seconds left on the game clock
+- Under one minute left in the period
+- Game clock dropping below the shot clock
+- Score changes
 
-Stay tuned for more details to come!
+Developed and published by Los Gatos Integrated Applied Systems LLC. Coming to the App Store.
+
+[Privacy Policy](/wprefassist/privacy)

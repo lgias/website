@@ -1,12 +1,12 @@
-We are just starting up here at LGIAS as makers of [Water Polo Camera](/wpcam), [Water Polo Board](/wpboard), and the [Water Polo Referee Radio Assist](/wprefassist)!
+---
+layout: page
+title: Apps and connected hardware
+---
 
-Please, give us a little bit to get our website going!
+LGIAS builds apps and connected hardware. Today, we build for water polo: tools that help parents, fans, and coaches film and follow the game, and help referees stay on top of the clock.
 
-Contact us:
+## Our products
 
-> Los Gatos Integrated Applied Systems LLC  
-> PO Box 272  
-> Los Gatos, CA 95031  
-> United States  
-
-You can also [e-mail your inquiries](mailto:inquiries@lgias.com?Website+Inquiry).
+- **[Water Polo Camera](/wpcam)**: film a game with the live score and clock right on the video.
+- **[Water Polo Board](/wpboard)**: a small wireless receiver that brings the pool's scoreboard timing to your phone.
+- **[Water Polo Referee Radio Assist](/wprefassist)**: clock and score cues delivered to a referee's headset.
