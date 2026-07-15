@@ -10,7 +10,7 @@ Water Polo Camera turns an iPhone or iPad into a water polo camera that films th
 ## What it does
 
 - Records in 4K, up to 60 fps.
-- Draws a broadcast-style scoreboard onto the video as you film: period, game clock, shot clock, and score.
+- Draws a live scoreboard onto the video as you film: period, game clock, shot clock, and score.
 - Keeps a built-in scorebook for goals, exclusions, penalties, timeouts, and more.
 - Remembers your favorite teams for quick game setup.
 - Saves a normal video file to your camera roll, scoreboard and all, ready to share like any other clip.
