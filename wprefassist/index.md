@@ -3,7 +3,9 @@ layout: page
 title: Water Polo Referee Companion
 ---
 
-<img src="/assets/referee-icon.png" alt="Water Polo Referee Companion app icon" width="84" style="float: right; border-radius: 18px; margin: 0 0 0.5rem 1.25rem;">Water Polo Referee Companion keeps your eyes on the water. Paired with a [Water Polo Board](/wpboard), it follows the game clock, shot clock, and score, and speaks short cues to your earpiece at the moments that matter, so you never have to look away from the play to check the clocks or scoreboard.
+<p style="text-align: center;"><img src="/assets/referee-icon.png" alt="Water Polo Referee Companion app icon" style="width: 160px; max-width: 45%; height: auto; border-radius: 22%;"></p>
+
+Water Polo Referee Companion keeps your eyes on the water. Paired with a [Water Polo Board](/wpboard), it follows the game clock, shot clock, and score, and speaks short cues to your earpiece at the moments that matter, so you never have to look away from the play to check the clocks or scoreboard.
 
 ## What it tells you
 
@@ -16,9 +18,11 @@ Each cue is short, spoken, and can be turned on or off on its own:
 - **"Shot clock is game clock"**: the game clock has dropped below the shot clock.
 - **"Score is X to Y"**: the score has changed.
 
-<p style="clear: both; margin: 1.5rem 0;">
-<span style="display: inline-block; background: #1c1c1e; padding: 6px; border-radius: 22px; box-shadow: 0 4px 16px rgba(0, 0, 0, 0.28); margin-right: 0.9rem; vertical-align: top;"><img src="/assets/refcompanion-main.png" alt="Referee Companion connected: period, clock, shot clock, and score" width="140" style="display: block; border-radius: 16px;"></span>
-<span style="display: inline-block; background: #1c1c1e; padding: 6px; border-radius: 22px; box-shadow: 0 4px 16px rgba(0, 0, 0, 0.28); vertical-align: top;"><img src="/assets/refcompanion-cue.png" alt="Referee Companion showing a cue on screen as it is spoken, for example Shot five" width="140" style="display: block; border-radius: 16px;"></span>
+<p style="text-align: center; margin: 1.5rem 0;">
+<span style="display: inline-block; background: #1c1c1e; padding: 6px; border-radius: 22px; box-shadow: 0 4px 16px rgba(0, 0, 0, 0.28); margin: 0.4rem 0.45rem; vertical-align: top;"><img src="/assets/refcompanion-main.png" alt="Referee Companion connected: period, game clock, shot clock, and score" width="140" style="display: block; border-radius: 16px;"></span>
+<span style="display: inline-block; background: #1c1c1e; padding: 6px; border-radius: 22px; box-shadow: 0 4px 16px rgba(0, 0, 0, 0.28); margin: 0.4rem 0.45rem; vertical-align: top;"><img src="/assets/refcompanion-cue.png" alt="A cue on screen as it is spoken: Shot clock is game clock" width="140" style="display: block; border-radius: 16px;"></span>
+<span style="display: inline-block; background: #1c1c1e; padding: 6px; border-radius: 22px; box-shadow: 0 4px 16px rgba(0, 0, 0, 0.28); margin: 0.4rem 0.45rem; vertical-align: top;"><img src="/assets/refcompanion-settings.png" alt="Settings: each cue can be turned on or off on its own" width="140" style="display: block; border-radius: 16px;"></span>
+<span style="display: inline-block; background: #1c1c1e; padding: 6px; border-radius: 22px; box-shadow: 0 4px 16px rgba(0, 0, 0, 0.28); margin: 0.4rem 0.45rem; vertical-align: top;"><img src="/assets/refcompanion-select.jpg" alt="Selecting a paired Water Polo Board to receive timing from" width="140" style="display: block; border-radius: 16px;"></span>
 </p>
 
 ## How you hear it
