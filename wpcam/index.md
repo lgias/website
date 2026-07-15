@@ -5,6 +5,8 @@ title: Water Polo Camera
 
 <p style="text-align: center;"><img src="/assets/camera-icon.png" alt="Water Polo Camera app icon" style="width: 160px; max-width: 45%; height: auto; border-radius: 22%;"></p>
 
+<p style="text-align: center;"><em>Coming soon to the App Store.</em></p>
+
 Water Polo Camera turns an iPhone or iPad into a water polo camera that films the game with the live score and clock right on the video.
 
 ## What it does
