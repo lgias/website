@@ -10,7 +10,7 @@ title: Water Polo Camera
 Water Polo Camera turns an iPhone or iPad into a water polo camera that films the game with the live score and clock right on the video.
 
 <p style="text-align: center; margin: 1.5rem 0;">
-<span style="display: inline-block; background: #1c1c1e; padding: 6px; border-radius: 22px; box-shadow: 0 4px 16px rgba(0, 0, 0, 0.28); vertical-align: top;"><img src="/assets/wpcam-overlay.png" alt="Recording a game with the live scoreboard overlay on the video" width="326" style="display: block; border-radius: 16px;"></span>
+<span style="display: inline-block; background: #1c1c1e; padding: 6px; border-radius: 22px; box-shadow: 0 4px 16px rgba(0, 0, 0, 0.28); vertical-align: top;"><img src="/assets/wpcam-overlay.png" alt="Entering a goal while recording, with the live scoreboard overlay on the video" width="326" style="display: block; border-radius: 16px;"></span>
 </p>
 
 ## What it does
