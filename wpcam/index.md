@@ -9,6 +9,10 @@ title: Water Polo Camera
 
 Water Polo Camera turns an iPhone or iPad into a water polo camera that films the game with the live score and clock right on the video.
 
+<p style="text-align: center; margin: 1.5rem 0;">
+<span style="display: inline-block; background: #1c1c1e; padding: 6px; border-radius: 22px; box-shadow: 0 4px 16px rgba(0, 0, 0, 0.28);"><img src="/assets/wpcam-overlay.png" alt="Recording a game with the live scoreboard overlay on the video" style="display: block; width: 520px; max-width: 92%; height: auto; border-radius: 14px;"></span>
+</p>
+
 ## What it does
 
 - Records in 4K, up to 60 fps.
@@ -16,6 +20,12 @@ Water Polo Camera turns an iPhone or iPad into a water polo camera that films th
 - Keeps a built-in scorebook for goals, exclusions, penalties, timeouts, and more.
 - Remembers your favorite teams for quick game setup.
 - Saves a normal video file to your camera roll, scoreboard and all, ready to share like any other clip.
+
+<p style="text-align: center; margin: 1.5rem 0;">
+<span style="display: inline-block; background: #1c1c1e; padding: 6px; border-radius: 22px; box-shadow: 0 4px 16px rgba(0, 0, 0, 0.28); margin: 0.4rem 0.45rem; vertical-align: top;"><img src="/assets/wpcam-setup.png" alt="Setting up a new game" width="150" style="display: block; border-radius: 16px;"></span>
+<span style="display: inline-block; background: #1c1c1e; padding: 6px; border-radius: 22px; box-shadow: 0 4px 16px rgba(0, 0, 0, 0.28); margin: 0.4rem 0.45rem; vertical-align: top;"><img src="/assets/wpcam-scorebook.png" alt="The built-in scorebook for goals, exclusions, and more" width="150" style="display: block; border-radius: 16px;"></span>
+<span style="display: inline-block; background: #1c1c1e; padding: 6px; border-radius: 22px; box-shadow: 0 4px 16px rgba(0, 0, 0, 0.28); margin: 0.4rem 0.45rem; vertical-align: top;"><img src="/assets/wpcam-scoreboard.png" alt="Selecting the pool scoreboard to receive timing from" width="150" style="display: block; border-radius: 16px;"></span>
+</p>
 
 ## Where the score and clock come from
 
