@@ -7,9 +7,9 @@ LGIAS builds apps and connected hardware. Today, we build for water polo: tools 
 
 ## Water Polo Suite
 
-<p style="text-align: center; margin: 0.75rem 0 1rem;"><img src="/assets/wpsuite.png" alt="Water Polo Suite" style="width: 96px; height: 96px; border-radius: 22%;"></p>
+Our water polo apps and hardware, built to work together.
 
-Our water polo apps and hardware, built to work together:
+<p style="text-align: center; margin: 0.75rem 0 1rem;"><img src="/assets/wpsuite.png" alt="Water Polo Suite" style="width: 96px; height: 96px; border-radius: 22%;"></p>
 
 <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 1.75rem; margin: 1.75rem 0;">
 <div style="width: 170px; text-align: center;">
