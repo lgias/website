@@ -5,7 +5,7 @@ title: Apps and connected hardware
 
 LGIAS builds apps and connected hardware. Today, we build for water polo: tools that help parents, fans, and coaches film and follow the game, and help referees stay on top of the clock.
 
-<p style="text-align: center; margin: 2rem 0 1.25rem;"><img src="/assets/wpsuite.png" alt="Water Polo Suite" style="width: 300px; max-width: 80%; height: auto; border-radius: 18px; box-shadow: 0 6px 20px rgba(0, 0, 0, 0.18);"></p>
+## Water Polo Suite
 
 Our water polo apps and hardware, built to work together:
 
