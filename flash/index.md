@@ -7,8 +7,8 @@ Setting up a board takes one step, and you only ever do it once. This page loads
 
 ## What you need
 
-- A Water Polo Board. See the [board page](/wpboard) for the small, inexpensive boards that work.
-- A USB-C cable that transfers data, not a charge-only one.
+- A Water Polo Board. See the [board page](/wpboard) for the <a href="https://www.amazon.com/dp/B0D8Q32F67?tag=lgias-20" target="_blank" rel="noopener">small, inexpensive boards that work</a>.
+- A <a href="https://www.amazon.com/s?k=usb-c+data+cable&amp;tag=lgias-20" target="_blank" rel="noopener">USB-C cable that transfers data</a>, not a charge-only one.
 - A computer running Chrome or Edge. This does not work in Safari, in Firefox, or on a phone, so reach for a laptop or desktop.
 
 ## Set it up
