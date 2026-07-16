@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About LGIAS
+title: About
 ---
 
 LGIAS is a small, independent software and hardware company in Los Gatos, California, formally Los Gatos Integrated Applied Systems LLC. We design the apps and build the hardware they run on, both sides in-house.
