@@ -1,0 +1,11 @@
+{
+  "name": "Water Polo Board Transmitter (dev)",
+  "builds": [
+    {
+      "chipFamily": "ESP32-C6",
+      "parts": [
+        { "path": "transmitter.bin", "offset": 0 }
+      ]
+    }
+  ]
+}
